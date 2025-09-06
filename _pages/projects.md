@@ -2,12 +2,20 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A showcase of my research, development, and open source contributions in AI/ML, NLP, and distributed systems.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [AI/ML, Research, Open Source]
 horizontal: false
 ---
+
+Welcome to my projects showcase! Here you'll find a collection of my work spanning **Machine Learning**, **Natural Language Processing**, **Distributed Systems**, and **Open Source Development**. Each project represents a unique challenge and learning opportunity, from real-time AI systems to clinical NLP research.
+
+## Project Categories
+
+- **🤖 AI/ML**: Machine learning and artificial intelligence projects including computer vision and real-time inference systems
+- **🔬 Research**: Academic research projects with publications and significant contributions to the field
+- **🌐 Open Source**: Community contributions and open source development work
 
 <!-- pages/projects.md -->
 <div class="projects">
